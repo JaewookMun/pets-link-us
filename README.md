@@ -1,7 +1,3 @@
-# Pets Link Us
+# Pets Link Us - Design
 
-branches splitted for work type
-
-* main - description
-* server - server code
-* design - design materials
+This branch is for the design of the project.
