@@ -1,3 +1,3 @@
 # Pets Link Us - Design
 
-This branch is for the design of the project.
+This is the branch for design of the project.
